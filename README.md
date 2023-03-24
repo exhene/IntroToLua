@@ -1,3 +1,3 @@
-# IntroToLua
+# TestingLua
 
 Lua is a lightweight, efficient, and powerful scripting language that is often used in video game development, but also has applications in other fields, such as web development, scientific research, and embedded systems. Lua was designed to be simple to learn and use, with a focus on flexibility, speed, and portability. It is an interpreted language, meaning that it does not need to be compiled before running, and can be easily embedded into other applications. Lua has a relatively small footprint, making it suitable for use in resource-limited environments such as mobile devices or embedded systems. Its syntax is easy to read and write, with a concise and elegant design that makes it popular among developers. Overall, Lua is a versatile and widely used scripting language with a broad range of applications.
